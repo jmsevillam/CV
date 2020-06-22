@@ -1,0 +1,9 @@
+main:
+  -title: "Main"
+    url: https://jmsevillam.github.io/CV/
+  - title: "Research"
+    url: https://jmsevillam.github.io/CV/research
+  - title: "Projects"
+    url:   url: https://jmsevillam.github.io/CV/projects
+  - title: "About"
+    url:   url: https://jmsevillam.github.io/CV/about
