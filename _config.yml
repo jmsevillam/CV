@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mauricio Sevilla"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars3.githubusercontent.com/u/39960794?s=460&v=4"
   bio              : "Phycisist."
   location         : "Mainz, Deutschland"
   links:
