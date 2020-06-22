@@ -96,7 +96,7 @@ author:
   name             : "Mauricio Sevilla"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phycisist."
-  location         : "Mainz, Detuschland"
+  location         : "Mainz, Deutschland"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
